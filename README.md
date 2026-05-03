@@ -1,6 +1,6 @@
 # Pokémon Battler
 
-A turn-based, two-player Pokémon battle game built in Java (the first game I made), created as my AP Computer Science final project in the spring of 2024.
+A turn-based, two-player Pokémon battle game built in Java (the first game I've ever made), created as my AP Computer Science final project in the spring of 2024.
 
 ## About
 
