@@ -30,7 +30,7 @@ class MoveTest {
         Pokemon defender = pokemon("Normal", 50, 50);
 
         // 69.2 * 1.5 (STAB) * 1 = 103.8 -> 103
-        assertEquals(104, move.calculateDamage(attacker, defender));
+        assertEquals(103, move.calculateDamage(attacker, defender));
     }
 
     @Test
